@@ -1,0 +1,16 @@
+# Composer
+/vendor/
+composer.lock
+
+# DDEV
+/.ddev/.importdb
+/.ddev/.downloads
+/.ddev/homeadditions
+/.ddev/.dbdata
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/

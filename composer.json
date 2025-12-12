@@ -1,0 +1,16 @@
+{
+    "name": "sjoyce/php-rpg",
+    "description": "PHP - RPG Game Engine.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "RPG\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shawn Joyce"
+        }
+    ],
+    "require": {}
+}
