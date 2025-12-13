@@ -3,6 +3,4 @@ declare(strict_types=1);
 
 require_once __DIR__ . '/../bootstrap/engine.php';
 
-echo $poop;
-
-// EOF
+echo '<h1>' . htmlspecialchars($title) . '</h1>';
